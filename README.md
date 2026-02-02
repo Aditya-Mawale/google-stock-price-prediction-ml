@@ -43,9 +43,9 @@ Predict stock prices
 Evaluate model using RMSE
 Save trained model
 
-<img width="580" height="394" alt="image" src="https://github.com/user-attachments/assets/f20661e4-669e-4397-bf81-49ebd457a5d0" />
-<img width="952" height="616" alt="image" src="https://github.com/user-attachments/assets/4e453135-3030-4781-b79d-0c864f750968" />
-<img width="701" height="419" alt="image" src="https://github.com/user-attachments/assets/00de0941-2538-4200-8707-dc28969843eb" />
-<img width="1287" height="686" alt="image" src="https://github.com/user-attachments/assets/76618de6-0eb7-4c57-9313-98c00a16bff4" />
+<img width="580" height="394" alt="image" src="https://github.com/user-attachments/assets/cc9ea77f-96f9-4245-9e5a-5ca9d506ac6a" />
+<img width="700" height="482" alt="image" src="https://github.com/user-attachments/assets/3d21242c-d530-41af-9e8f-06dd3d13dfb9" />
+<img width="850" height="571" alt="image" src="https://github.com/user-attachments/assets/f70d5bb6-9d8a-497c-acff-2a952de8422d" />
+
 
 
